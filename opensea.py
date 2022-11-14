@@ -213,6 +213,4 @@ Downloads:
 
 
 You can find the images in the images/{CollectionName} folder.
-The JSON for each NFT can be found in the images/{CollectionName}/image_data folder.
-Press enter to exit...""")
-input()
+
