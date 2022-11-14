@@ -212,5 +212,5 @@ Downloads:
     {stats["FailedImages"]} failed
 
 
-You can find the images in the images/{CollectionName} folder.
+You can find the images in the images/{CollectionName} folder.""")
 
